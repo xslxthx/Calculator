@@ -1,4 +1,4 @@
-package DataReader;
+package datareader;
 import java.util.Scanner;
 
 public class ConsoleDataReader implements DataReader {

@@ -1,4 +1,4 @@
-package Command;
+package command;
 
 public class AdditionCommand extends BaseCommand implements Command{
     public AdditionCommand(int operationNumber, String operationName){

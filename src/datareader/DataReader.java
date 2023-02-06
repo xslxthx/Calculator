@@ -1,4 +1,4 @@
-package DataReader;
+package datareader;
 
 public interface DataReader {
     String readData();

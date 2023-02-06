@@ -1,6 +1,6 @@
-import Command.Command;
-import Command.InitialContext;
-import DataReader.DataReader;
+import command.Command;
+import command.InitialContext;
+import datareader.DataReader;
 
 import java.util.Optional;
 

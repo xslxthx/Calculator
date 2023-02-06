@@ -1,5 +1,5 @@
-import Command.InitialContext;
-import DataReader.ConsoleDataReader;
+import command.InitialContext;
+import datareader.ConsoleDataReader;
 
 public class Run {
     public static void main(String[] args) {
